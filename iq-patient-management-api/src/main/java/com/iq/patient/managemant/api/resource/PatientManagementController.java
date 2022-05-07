@@ -58,6 +58,9 @@ public class PatientManagementController {
 	}
 
 
+	public String getUser() {
+		return "";
+	}
 
 	
 	
