@@ -42,7 +42,7 @@ public class PatientManagementDaoImpl implements PatientManagementDao{
 			throw new PatientManagementException(e.getMessage());
 		}
 					
-		//jdbcOperations.query("", rse)
+		
 	}
 	
 	
